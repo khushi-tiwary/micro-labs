@@ -1,0 +1,15 @@
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/monday-oop.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/monday-oop.AssemblyInfoInputs.cache
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/monday-oop.AssemblyInfo.cs
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/monday-oop.csproj.CoreCompileInputs.cache
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/monday-oop.sourcelink.json
+/workspaces/micro-labs/week-02/monday-oop/bin/Debug/net10.0/monday-oop
+/workspaces/micro-labs/week-02/monday-oop/bin/Debug/net10.0/monday-oop.deps.json
+/workspaces/micro-labs/week-02/monday-oop/bin/Debug/net10.0/monday-oop.runtimeconfig.json
+/workspaces/micro-labs/week-02/monday-oop/bin/Debug/net10.0/monday-oop.dll
+/workspaces/micro-labs/week-02/monday-oop/bin/Debug/net10.0/monday-oop.pdb
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/monday-oop.dll
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/refint/monday-oop.dll
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/monday-oop.pdb
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/monday-oop.genruntimeconfig.cache
+/workspaces/micro-labs/week-02/monday-oop/obj/Debug/net10.0/ref/monday-oop.dll

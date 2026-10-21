@@ -1,4 +1,7 @@
-﻿using System;
+﻿/* Problem stmnt: Model Customer, TariffPlan and Subscription with validation inside constructors and setters. 
+Build a small inheritance tree: Customer, PrepaidCustomer, PostpaidCustomer. */
+
+using System;
 
 enum SubscriptionType // enum defines a fixed set of named values
 {
